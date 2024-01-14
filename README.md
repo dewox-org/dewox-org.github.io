@@ -9,8 +9,9 @@ Creating demoscenes since 2010.
   - Blocks and Slices
   - Effects and Failures
   - Search Index
-  - Files and Libraries
   - Task Spawning and Counters
+  - Files and Libraries
+  - Clocks, Dates and Sleeping
  
 - Dewox Language
   - Naive Language Interpreter (in C)
