@@ -5,6 +5,7 @@ Creating demoscenes since 2010.
 # What is this all about?
 
 - Dewox Platform (The Portability Layer, a dedicated C ABI that can be implemented easily)
+  - Types and Macros (like "size_t" and "CONCAT(A, B)")
   - Blocks and Slices
   - Effects and Failures
   - Search Index
