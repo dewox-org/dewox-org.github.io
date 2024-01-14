@@ -17,6 +17,7 @@ Creating demoscenes since 2010.
 
 - Dewox Standard Library (in Dewox Language, with FFI into the platform)
   - Dataformat (Dewox Object Graph, or "dog")
+  - Plugins (Dewox Object Plugin Exchangeable, or "dope")
   - Window Creation
   - Graphics (Draw lines and texts)
   - Audio
